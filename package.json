@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-staticdeploy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "staticdeploy eslint configuration",
   "main": "index.js",
   "author": "Paolo Scanferla <paolo.scanferla@gmail.com>",
