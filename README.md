@@ -1,3 +1,6 @@
+[![npm version](https://badge.fury.io/js/eslint-config-staticdeploy.svg)](https://badge.fury.io/js/eslint-config-staticdeploy)
+[![Dependency Status](https://david-dm.org/staticdeploy/eslint-config-staticdeploy.svg)](https://david-dm.org/staticdeploy/eslint-config-staticdeploy)
+
 # eslint-config-staticdeploy
 
 Staticdeploy eslint configuration.
