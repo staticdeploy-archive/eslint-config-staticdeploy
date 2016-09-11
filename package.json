@@ -1,0 +1,11 @@
+{
+  "name": "eslint-config-staticdeploy",
+  "version": "1.0.0",
+  "description": "staticdeploy eslint configuration",
+  "main": "index.js",
+  "author": "Paolo Scanferla <paolo.scanferla@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-plugin-react": "^6.2.0"
+  }
+}
