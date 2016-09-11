@@ -65,7 +65,7 @@ module.exports = {
         "no-fallthrough": [2],
         "no-floating-decimal": [2],
         "no-global-assign": [2],
-        "no-implicit-coercion": [2, {"allow": ["!!"}],
+        "no-implicit-coercion": [2, {"allow": ["!!"]}],
         "no-implicit-globals": [2],
         "no-implied-eval": [2],
         "no-invalid-this": [2],
