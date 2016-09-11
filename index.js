@@ -1,5 +1,7 @@
 module.exports = {
-    "ecmaVersion": 6,
+    "parserOptions": {
+        "ecmaVersion": 6
+    },
     "env": {
         "browser": true,
         "mocha": true,
