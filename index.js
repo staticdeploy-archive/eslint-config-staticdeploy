@@ -43,7 +43,7 @@ module.exports = {
         "accessor-pairs": [0],
         "array-callback-return": [2],
         "block-scoped-var": [2],
-        "class-methods-use-this": [2],
+        "class-methods-use-this": [0],
         "complexity": [0],
         "consistent-return": [2],
         "curly": [2],
