@@ -8,7 +8,7 @@ module.exports = {
         "babel/new-cap": [2],
         "babel/array-bracket-spacing": [2],
         "babel/object-curly-spacing": [2],
-        "babel/object-shorthand": [2, "consistent"],
+        "babel/object-shorthand": [0],
         "babel/arrow-parens": [2, "as-needed"],
         // Corresponding eslint rules (they're turned off to prevent conflicts)
         "generator-star-spacing": [0],
