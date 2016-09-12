@@ -15,14 +15,21 @@ npm i --save-dev eslint-config-staticdeploy
 
 Add to your `.eslintrc`:
 
-  * plain javascript projects
+  * plain javascript projects (base config):
     ```json
     {
         "extends": ["eslint-config-staticdeploy"]
     }
     ```
 
-  * react projects projects:
+  * babel projects (extends the base config):
+      ```json
+      {
+          "extends": ["eslint-config-staticdeploy/babel"]
+      }
+      ```
+
+  * react projects projects (extends the babel config):
     ```json
     {
         "extends": ["eslint-config-staticdeploy/react"]
