@@ -19,7 +19,7 @@ module.exports = {
         "react/no-set-state": [0],
         "react/no-string-refs": [2],
         "react/no-unknown-property": [2],
-        "react/no-unused-prop-types": [2],
+        "react/no-unused-prop-types": [0],
         "react/prefer-es6-class": [2],
         "react/prefer-stateless-function": [0],
         "react/prop-types": [2],
