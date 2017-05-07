@@ -13,8 +13,8 @@
     "url": "https://github.com/staticdeploy/eslint-config-staticdeploy/issues"
   },
   "dependencies": {
-    "babel-eslint": "^7.0.0",
-    "eslint-plugin-babel": "^3.3.0",
-    "eslint-plugin-react": "^6.4.1"
+    "babel-eslint": "^7.2.3",
+    "eslint-plugin-babel": "^4.1.1",
+    "eslint-plugin-react": "^7.0.0"
   }
 }
